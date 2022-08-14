@@ -1,0 +1,12 @@
+pip install pip install wolframalpha
+pip install pytube
+pip install psutil      
+pip install pywikihow
+ pip install speedtest
+ pip install googletrans
+  pip install pywhatkit
+   pip3 install bs4
+   pip install SpeechRecognition
+   pip install wheel
+   pip install .\PyAudio-0.2.11-cp310-cp310-win_amd64.whl
+   pip install pyttsx3
